@@ -1,0 +1,18 @@
+C:\Users\sadiqme\Documents\Visual Studio 2010\Projects\ShippingAPI\ShippingAPI\bin\ShippingAPI.dll
+C:\Users\sadiqme\Documents\Visual Studio 2010\Projects\ShippingAPI\ShippingAPI\bin\ShippingAPI.pdb
+C:\Users\sadiqme\Documents\Visual Studio 2010\Projects\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.dll
+C:\Users\sadiqme\Documents\Visual Studio 2010\Projects\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.pdb
+D:\ShippingAPI\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.dll
+D:\ShippingAPI\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.pdb
+D:\ShippingAPI\ShippingAPI\ShippingAPI\bin\ShippingAPI.dll
+D:\ShippingAPI\ShippingAPI\ShippingAPI\bin\ShippingAPI.pdb
+D:\Shipping\Done\ShippingAPI\ShippingAPI\ShippingAPI\bin\ShippingAPI.dll
+D:\Shipping\Done\ShippingAPI\ShippingAPI\ShippingAPI\bin\ShippingAPI.pdb
+D:\Shipping\Done\ShippingAPI\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.csprojResolveAssemblyReference.cache
+D:\Shipping\Done\ShippingAPI\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.dll
+D:\Shipping\Done\ShippingAPI\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.pdb
+D:\WholeShipmentDocs\Done\ShippingAPI\ShippingAPI\ShippingAPI\bin\ShippingAPI.dll
+D:\WholeShipmentDocs\Done\ShippingAPI\ShippingAPI\ShippingAPI\bin\ShippingAPI.pdb
+D:\WholeShipmentDocs\Done\ShippingAPI\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.csprojResolveAssemblyReference.cache
+D:\WholeShipmentDocs\Done\ShippingAPI\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.dll
+D:\WholeShipmentDocs\Done\ShippingAPI\ShippingAPI\ShippingAPI\obj\Debug\ShippingAPI.pdb

@@ -1,0 +1,26 @@
+D:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\bin\Debug\MyGeneration.dOOdads_2005.dll
+D:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\bin\Debug\MyGeneration.dOOdads_2005.dll
+F:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\KCITS_PRO\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\RINKU\_Others\KCIT\9 sept 2018\107_FabyMart\FabyMart\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\RINKU\_Others\KCIT\9 sept 2018\107_FabyMart\FabyMart\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\RINKU\_Others\KCIT\9 sept 2018\107_FabyMart\FabyMart\BusinessLayer\bin\Debug\MyGeneration.dOOdads_2005.dll
+F:\RINKU\_Others\KCIT\9 sept 2018\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+F:\RINKU\_Others\KCIT\9 sept 2018\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\RINKU\_Others\KCIT\9 sept 2018\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+F:\RINKU\_Others\KCIT\9 sept 2018\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\RINKU\_Others\KCIT\9 sept 2018\107_FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Work\Github_profile_projects\FabyMart\FabyMart\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Work\Github_profile_projects\FabyMart\FabyMart\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Work\Github_profile_projects\FabyMart\FabyMart\BusinessLayer\bin\Debug\MyGeneration.dOOdads_2005.dll
+E:\Work\Github_profile_projects\FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Work\Github_profile_projects\FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Work\Github_profile_projects\FabyMart\FabyMart\BusinessLayer\obj\Debug\BusinessLayer.pdb

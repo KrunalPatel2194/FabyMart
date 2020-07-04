@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E56367E4-A314-4D82-BD52-DF9F45092962}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessLayer</RootNamespace>
+    <AssemblyName>BusinessLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MyGeneration.dOOdads_2005, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLs\MyGeneration.dOOdads_2005.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\_tblAddress.cs" />
+    <Compile Include="DAL\_tblBanner.cs" />
+    <Compile Include="DAL\_tblBestSeller.cs" />
+    <Compile Include="DAL\_tblBlock.cs" />
+    <Compile Include="DAL\_tblCategory.cs" />
+    <Compile Include="DAL\_tblCity.cs" />
+    <Compile Include="DAL\_tblColor.cs" />
+    <Compile Include="DAL\_tblCountry.cs" />
+    <Compile Include="DAL\_tblCouponCode.cs" />
+    <Compile Include="DAL\_tblCouponCodeProduct.cs" />
+    <Compile Include="DAL\_tblCourierCompany.cs" />
+    <Compile Include="DAL\_tblCourierRate.cs" />
+    <Compile Include="DAL\_tblCurrency.cs" />
+    <Compile Include="DAL\_tblCustomer.cs" />
+    <Compile Include="DAL\_tblDeal.cs" />
+    <Compile Include="DAL\_tblExclusive.cs" />
+    <Compile Include="DAL\_tblFavouriteProduct.cs" />
+    <Compile Include="DAL\_tblFeaturedProduct.cs" />
+    <Compile Include="DAL\_tblHighLight.cs" />
+    <Compile Include="DAL\_tblInquiry.cs" />
+    <Compile Include="DAL\_tblManifest.cs" />
+    <Compile Include="DAL\_tblMenuItem.cs" />
+    <Compile Include="DAL\_tblMenuItemType.cs" />
+    <Compile Include="DAL\_tblMenuType.cs" />
+    <Compile Include="DAL\_tblNewArrival.cs" />
+    <Compile Include="DAL\_tblOrder.cs" />
+    <Compile Include="DAL\_tblOrderStatus.cs" />
+    <Compile Include="DAL\_tblPage.cs" />
+    <Compile Include="DAL\_tblPageFormat.cs" />
+    <Compile Include="DAL\_tblPermission.cs" />
+    <Compile Include="DAL\_tblPinCode.cs" />
+    <Compile Include="DAL\_tblPixcelCode.cs" />
+    <Compile Include="DAL\_tblProduct.cs" />
+    <Compile Include="DAL\_tblProductColor.cs" />
+    <Compile Include="DAL\_tblProductDetail.cs" />
+    <Compile Include="DAL\_tblProductImage.cs" />
+    <Compile Include="DAL\_tblProductProperty.cs" />
+    <Compile Include="DAL\_tblProductSubCategory.cs" />
+    <Compile Include="DAL\_tblProperty.cs" />
+    <Compile Include="DAL\_tblPropertyPreValue.cs" />
+    <Compile Include="DAL\_tblPropertySubCategory.cs" />
+    <Compile Include="DAL\_tblRelatedProduct.cs" />
+    <Compile Include="DAL\_tblReturnOrder.cs" />
+    <Compile Include="DAL\_tblReturnOrderDetail.cs" />
+    <Compile Include="DAL\_tblReviews.cs" />
+    <Compile Include="DAL\_tblRole.cs" />
+    <Compile Include="DAL\_tblSentSMS.cs" />
+    <Compile Include="DAL\_tblSettings.cs" />
+    <Compile Include="DAL\_tblSize.cs" />
+    <Compile Include="DAL\_tblSizeSubCategory.cs" />
+    <Compile Include="DAL\_tblState.cs" />
+    <Compile Include="DAL\_tblSubCategory.cs" />
+    <Compile Include="DAL\_tblSubOrder.cs" />
+    <Compile Include="DAL\_tblSubscribe.cs" />
+    <Compile Include="DAL\_tblTab.cs" />
+    <Compile Include="DAL\_tblTrending.cs" />
+    <Compile Include="DAL\_tblUser.cs" />
+    <Compile Include="DAL\_tblUserLog.cs" />
+    <Compile Include="DLL\tblAddress.cs" />
+    <Compile Include="DLL\tblBanner.cs" />
+    <Compile Include="DLL\tblBestSeller.cs" />
+    <Compile Include="DLL\tblBlock.cs" />
+    <Compile Include="DLL\tblCategory.cs" />
+    <Compile Include="DLL\tblCity.cs" />
+    <Compile Include="DLL\tblColor.cs" />
+    <Compile Include="DLL\tblCountry.cs" />
+    <Compile Include="DLL\tblCouponCode.cs" />
+    <Compile Include="DLL\tblCouponCodeProduct.cs" />
+    <Compile Include="DLL\tblCourierCompany.cs" />
+    <Compile Include="DLL\tblCourierRate.cs" />
+    <Compile Include="DLL\tblCurrency.cs" />
+    <Compile Include="DLL\tblCustomer.cs" />
+    <Compile Include="DLL\tblDeal.cs" />
+    <Compile Include="DLL\tblExclusive.cs" />
+    <Compile Include="DLL\tblFavouriteProduct.cs" />
+    <Compile Include="DLL\tblFeaturedProduct.cs" />
+    <Compile Include="DLL\tblHighLight.cs" />
+    <Compile Include="DLL\tblInquiry.cs" />
+    <Compile Include="DLL\tblManifest.cs" />
+    <Compile Include="DLL\tblMenuItem.cs" />
+    <Compile Include="DLL\tblMenuItemType.cs" />
+    <Compile Include="DLL\tblMenuType.cs" />
+    <Compile Include="DLL\tblNewArrival.cs" />
+    <Compile Include="DLL\tblOrder.cs" />
+    <Compile Include="DLL\tblOrderStatus.cs" />
+    <Compile Include="DLL\tblPage.cs" />
+    <Compile Include="DLL\tblPageFormat.cs" />
+    <Compile Include="DLL\tblPermission.cs" />
+    <Compile Include="DLL\tblPinCode.cs" />
+    <Compile Include="DLL\tblPixcelCode.cs" />
+    <Compile Include="DLL\tblProduct.cs" />
+    <Compile Include="DLL\tblProductColor.cs" />
+    <Compile Include="DLL\tblProductDetail.cs" />
+    <Compile Include="DLL\tblProductImage.cs" />
+    <Compile Include="DLL\tblProductProperty.cs" />
+    <Compile Include="DLL\tblProductSubCategory.cs" />
+    <Compile Include="DLL\tblProperty.cs" />
+    <Compile Include="DLL\tblPropertyPreValue.cs" />
+    <Compile Include="DLL\tblPropertySubCategory.cs" />
+    <Compile Include="DLL\tblRelatedProduct.cs" />
+    <Compile Include="DLL\tblReturnOrder.cs" />
+    <Compile Include="DLL\tblReturnOrderDetail.cs" />
+    <Compile Include="DLL\tblReviews.cs" />
+    <Compile Include="DLL\tblRole.cs" />
+    <Compile Include="DLL\tblSentSMS.cs" />
+    <Compile Include="DLL\tblSettings.cs" />
+    <Compile Include="DLL\tblSize.cs" />
+    <Compile Include="DLL\tblSizeSubCategory.cs" />
+    <Compile Include="DLL\tblState.cs" />
+    <Compile Include="DLL\tblSubCategory.cs" />
+    <Compile Include="DLL\tblSubOrder.cs" />
+    <Compile Include="DLL\tblSubscribe.cs" />
+    <Compile Include="DLL\tblTab.cs" />
+    <Compile Include="DLL\tblTrending.cs" />
+    <Compile Include="DLL\tblUser.cs" />
+    <Compile Include="DLL\tblUserLog.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DLLs\MyGeneration.dOOdads_2005.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
